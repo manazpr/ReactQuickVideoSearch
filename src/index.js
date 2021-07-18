@@ -18,7 +18,7 @@ this.state= {
     selectedVideo: null
  };
 
-
+//Defaulkt Search Term
 this.videoSearch('ethereum');
 }
 
