@@ -6,7 +6,7 @@ import SearchBar from './components/search_bar';
 import VideoDetail from './components/video_detail';
 import _ from 'lodash';
 
-// Enter Youtube API here..
+// Enter Youtube API key here..
 const API_KEY = ' ';
 
 class App extends Component {
